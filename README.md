@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**RyzCantonais64/RyzCantonais64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ryz, a cybersecurity student based in France.
 
-Here are some ideas to get you started:
+I study and build projects that help me explore the world of ethical hacking and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I get an idea for something useful or challenging, I’ll probably build it, test it, and share it.
+
+My main tech stack includes Python, Bash, and tools like Nmap, Metasploit, and SQLmap. I also enjoy working with Kali Linux and setting up vulnerable environments such as Metasploitable.
+
+I’ve got a few pinned projects related to penetration testing and automation.
+
+If you’re curious about how I learn and practice cybersecurity, feel free to check out my notes and write-ups!
+
+Fun Facts:
+I have two cats
+I don’t like coffee or tea
+I like animes like Tokyo ghoul and Black Clover
+Hobbies: anime, Formula 1, learning languages, building things
