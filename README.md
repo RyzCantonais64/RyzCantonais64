@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m [**Ryz**]([https://github.com/Ryz](https://elricbeaujot.pythonanywhere.com)), a cybersecurity student based in France.
+I’m [Ryz](https://elricbeaujot.pythonanywhere.com), a cybersecurity student based in France.
 
 I study and build projects that help me explore the world of ethical hacking and security.
 
