@@ -8,8 +8,6 @@ If I get an idea for something useful or challenging, I’ll probably build it, 
 
 My main tech stack includes Python, Bash, and tools like Nmap, Metasploit, and SQLmap. I also enjoy working with Kali Linux and setting up vulnerable environments such as Metasploitable.
 
-I’ve got a few pinned projects related to penetration testing and automation.
-
 If you’re curious about how I learn and practice cybersecurity, feel free to check out my notes and write-ups!
 
 **Fun Facts:**
