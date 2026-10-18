@@ -12,6 +12,6 @@ If you’re curious about how I learn and practice cybersecurity, feel free to c
 
 **Fun Facts:**
 - I have a cat and a dog  
-- I don’t like coffee or tea  
+- I don’t like coffee and tea  
 - I like animes like Tokyo Ghoul, FMAB or Black Clover
 - Hobbies: anime, formula 1, learning languages, building things
